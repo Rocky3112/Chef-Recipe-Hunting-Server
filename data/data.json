@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chef_picture": "https://example.com/chef1.jpg",
+      "chef_picture": "https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Fguiltyeats.com%2Ffiles%2F2022%2F07%2FDSCF6496-850x560.jpeg",
       "chef_name": "John Doe",
       "years_of_experience": 10,
       "num_of_recipes": 50,
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "chef_picture": "https://example.com/chef2.jpg",
+      "chef_picture": "https://m.media-amazon.com/images/M/MV5BODA4MDk4YzctOGE0MC00MDdlLThmOTctZmM2ZmIzZjYyNjgxXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX500_CR0,0,500,281_.jpg",
       "chef_name": "Jane Smith",
       "years_of_experience": 7,
       "num_of_recipes": 30,
@@ -19,7 +19,7 @@
     },
     {
       "id": 3,
-      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSF_i_VdgG_nBV4d8p0BvFu4FSiG6ZS5v_XQ&usqp=CAU",
       "chef_name": "Bob Johnson",
       "years_of_experience": 15,
       "num_of_recipes": 80,
@@ -28,7 +28,7 @@
     },
     {
       "id": 4,
-      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_picture": "https://img.freepik.com/premium-photo/african-american-chef-slicing-fresh-celery-cutting-board-preparing-ingredients-gourmet-meal-culinary-food-recipe-male-cook-using-professional-utensils-make-gastronomy-dish_482257-42109.jpg",
       "chef_name": "Sara Lee",
       "years_of_experience": 12,
       "num_of_recipes": 60,
@@ -37,7 +37,7 @@
     },
     {
       "id": 5,
-      "chef_picture": "https://example.com/chef5.jpg",
+      "chef_picture": "https://media2.newtimesslo.com/ntslo/imager/u/blog/12890108/foodanddrink_flavor1-1-f545b663f97b7c43.jpg?cb=1682010917",
       "chef_name": "Michael Smith",
       "years_of_experience": 20,
       "num_of_recipes": 100,
@@ -46,7 +46,7 @@
     },
     {
       "id": 6,
-      "chef_picture": "https://example.com/chef6.jpg",
+      "chef_picture": "https://images.hola.com/us/images/026c-12f7a03748d0-efeef3f23432-1000/horizontal-1200/chef-and-food-writer-alejandra-ramos.png",
       "chef_name": "Jennifer Brown",
       "years_of_experience": 5,
       "num_of_recipes": 20,
@@ -55,7 +55,7 @@
     },
     {
       "id": 7,
-      "chef_picture": "https://example.com/chef7.jpg",
+      "chef_picture": "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/Sean-Plating-CDPL-Credit-Photo-RX-1558471582.jpg",
       "chef_name": "David Kim",
       "years_of_experience": 8,
       "num_of_recipes": 40,
@@ -64,7 +64,7 @@
     },
     {
       "id": 8,
-      "chef_picture": "https://example.com/chef8.jpg",
+      "chef_picture": "https://media2.newtimesslo.com/ntslo/imager/u/blog/12890108/foodanddrink_flavor1-1-f545b663f97b7c43.jpg?cb=1682010917",
       "chef_name": "Emily Wang",
       "years_of_experience": 3,
       "num_of_recipes": 10,
