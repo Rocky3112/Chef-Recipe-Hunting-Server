@@ -64,7 +64,7 @@
     "experience": 10,
     "recipes_number": 63,
     "likes": "Sushi",
-    "short_bio": "Hiroshi Nakamura is a renowned sushi chef with 15 years of experience. He is known for his precision and creativity in crafting exquisite sushi dishes.",
+    "description": "Hiroshi Nakamura is a renowned sushi chef with 15 years of experience. He is known for his precision and creativity in crafting exquisite sushi dishes.",
     "recipes": [
       {
         "recipe_name": "Dragon Roll",
@@ -170,7 +170,7 @@
     "experience": 5,
     "recipes_number": 63,
     "likes": "Sushi",
-    "short_bio": "Hiroshi Nakamura is a renowned sushi chef with 15 years of experience. He is known for his precision and creativity in crafting exquisite sushi dishes.",
+    "description": "Hiroshi Nakamura is a renowned sushi chef with 15 years of experience. He is known for his precision and creativity in crafting exquisite sushi dishes.",
     "recipes": [
       {
         "recipe_name": "Dragon Roll",
@@ -276,7 +276,7 @@
     "experience": 2,
     "recipes_number": 63,
     "likes": "Sushi",
-    "short_bio": "Hiroshi Nakamura is a renowned sushi chef with 15 years of experience. He is known for his precision and creativity in crafting exquisite sushi dishes.",
+    "description": "Hiroshi Nakamura is a renowned sushi chef with 15 years of experience. He is known for his precision and creativity in crafting exquisite sushi dishes.",
     "recipes": [
       {
         "recipe_name": "Dragon Roll",
